@@ -1,0 +1,3 @@
+web:
+  context: /kibana
+  static: src
